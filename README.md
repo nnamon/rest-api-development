@@ -97,28 +97,26 @@ Please fill out this section with details relevant to your team.
 ### Team Members
 
 1. Jeremy Heng
-2. John Galt
-3. Audrey Shida
 
 ### Short Answer Questions
 
 #### Question 1: Briefly describe the web technology stack used in your implementation.
 
-Answer: Please replace this sentence with your answer.
+Answer: Flask and Python.
 
 #### Question 2: Are there any security considerations your team thought about?
 
-Answer: Please replace this sentence with your answer.
+Answer: Much secure.
 
 #### Question 3: Are there any improvements you would make to the API specification to improve the security of the web application?
 
-Answer: Please replace this sentence with your answer.
+Answer: More puppy pictures will be much secure.
 
 #### Question 4: Are there any additional features you would like to highlight?
 
-Answer: Please replace this sentence with your answer.
+Answer: Not really, no.
 
 #### Question 5: Is there any other feedback you would like to give?
 
-Answer: Please replace this sentence with your answer.
+Answer: Yes.
 
